@@ -9,6 +9,7 @@ import UIKit
 import Kingfisher
 
 final class MainTableHeroesCell: UITableViewCell {
+    
     //Mark: - PrivatePropetries
     
     private lazy var name: UILabel = {
